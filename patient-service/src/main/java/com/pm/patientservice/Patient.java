@@ -77,4 +77,6 @@ public class Patient {
     public void setRegistrationDate(LocalDate registrationDate) {
         this.registrationDate = registrationDate;
     }
+
+
 }
